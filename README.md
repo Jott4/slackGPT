@@ -10,6 +10,7 @@ Resposta a perguntas: o bot pode responder a qualquer tipo de pergunta, utilizan
 Para usar o bot, basta mencioná-lo em uma mensagem no canal do Slack e fazer sua pergunta ou solicitar um resumo da thread. O bot responderá em uma mensagem separada.
 
 ## Exemplos de comandos:
+[slackgpt demo.webm](https://user-images.githubusercontent.com/53587274/218182419-3580460a-72b2-4c20-94b6-06d20a930016.webm)
 
 
 
